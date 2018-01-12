@@ -6,9 +6,9 @@ See individual subfolder for readmes of individual modules.
 
 ## Requirenments:
 1. Python with:
-..* Scikit-learn
-..* LasPy
-..* ArangoPy
+⋅⋅⋅ Scikit-learn
+⋅⋅⋅ LasPy
+⋅⋅⋅ ArangoPy
 2. ArangoDB (tested on version 3.3.1)
 3. Node.js/Yarn
-..* use yarn or npm to fetch the required packages
+⋅⋅⋅ use yarn or npm to fetch the required packages
