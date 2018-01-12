@@ -5,10 +5,10 @@ The structure is stored in a Arango DB graph. A simple Koa.js backend is made to
 See individual subfolder for readmes of individual modules.
 
 ## Requirenments:
-1. Python with:
-⋅⋅⋅ Scikit-learn
-⋅⋅⋅ LasPy
-⋅⋅⋅ ArangoPy
-2. ArangoDB (tested on version 3.3.1)
-3. Node.js/Yarn
-⋅⋅⋅ use yarn or npm to fetch the required packages
+* Python(2.7) with:
+  * Scikit-learn
+  * LasPy
+  * ArangoPy
+* ArangoDB (tested on version 3.3.1)
+* Node.js/Yarn
+  * use yarn or npm to fetch the required packages
